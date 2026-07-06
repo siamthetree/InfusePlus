@@ -90,12 +90,7 @@
 "NotifyUpdates" = "Notify Updates";
 "NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
 "UpdateLocalizations" = "Update Localizations";
-"UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them";
-"NewUpdate" = "Infuse Plus %@ is out!";
-"Update.Tweak" = "Get it from Github";
-"Update.IPA" = "Download IPA from Telegram";
-"Update.Repo" = "Open repositories list";
-"Update.Dismiss" = "Dismiss";
+"UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them"
 
 "PrefsHeader" = "Infuse Plus Preferences";
 "ImportPrefs" = "Import Preferences";
@@ -111,19 +106,7 @@
 "Cancel" = "Cancel";
 
 "AboutHeader" = "About";
-"Developer" = "Infuse Plus Developer";
-"Donate" = "Support Development";
-"DonateDesc" = "Buy me a coffee";
-
-"DonateMessage" = "If you like Infuse Plus and would like to support me, you can buy me a coffee using any of convenient ways below.\n\nThanks❤";
-"MaybeLater" = "Maybe later";
-"Copied" = "Copied to clipboard";
-"Thanks" = "Thanks";
-
-"LinksHeader" = "Links";
-
-"SpecialThanks" = "Special Thanks";
-"TopContributors" = "Top contributors";
+"Developer" = "Polao";
 "Translators" = "Localization";
 "Arabic" = "Arabic localization";
 "ChineseSimplified" = "Chinese, Simplified localization";
@@ -165,5 +148,4 @@
 "Welcome.GesturesDesc" = "Extra gestures and improvements of existing ones. Custom skip durations and more";
 "Welcome.More" = "And even more";
 "Welcome.MoreDesc" = "Setup the startup tab, change the player poster and title in the control center, update notifications, and much more";
-"SupportMe" = "Support Me";
 "Continue" = "Continue";

@@ -11,14 +11,14 @@ on:
         type: string
 
       tweak_version:
-        description: "The version of the tweak to use. Enter the version manually from dayanch96/InfusePlus/releases or leave default"
+        description: "The version of the tweak to use. Enter the version manually from Polao/InfusePlus/releases or leave default"
         default: "2.5"
         required: true
         type: string
 
       display_name:
         description: "App Name (Optional)"
-        default: "Infuse"
+        default: "Mina Anni"
         required: true
         type: string
 
