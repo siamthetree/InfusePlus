@@ -1,4 +1,4 @@
-name: Create Infuse Plus app
+name: Create Mina Ani app
 
 on:
   workflow_dispatch:
@@ -70,7 +70,7 @@ jobs:
       - name: Install cyan
         run: pipx install --force https://github.com/asdfzxcvbn/pyzule-rw/archive/main.zip
 
-      - name: Download Infuse Plus
+      - name: Download Mina Ani
         id: download_infp
         run: |
           deb_url="https://github.com/dayanch96/InfusePlus/releases/download/v${{ inputs.tweak_version }}/com.dvntm.infuseplus_${{ inputs.tweak_version }}_iphoneos-arm.deb"

@@ -84,22 +84,22 @@
 
 "StartupPageHeader" = "Startup Page";
 
-"UpdateHeader" = "Infuse Plus Update";
+"UpdateHeader" = "Mina Ani Update";
 "AutoCleanTrash" = "Auto clean trash";
 "AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "Notify Updates";
 "NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
 "UpdateLocalizations" = "Update Localizations";
-"UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them"
+"UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Mina Ani release to benefit from them"
 
-"PrefsHeader" = "Infuse Plus Preferences";
+"PrefsHeader" = "Mina Ani Preferences";
 "ImportPrefs" = "Import Preferences";
 "ExportPrefs" = "Export Preferences";
 "RestoreDefaults" = "Restore Default Preferences";
 
-"PreImportMessage" = "You are about to import Infuse Plus preferences. This action will permanently overwrite your current preferences.\n\nDo you want to continue?";
+"PreImportMessage" = "You are about to import Mina Ani preferences. This action will permanently overwrite your current preferences.\n\nDo you want to continue?";
 "Import.Yes" = "Yes, import preferences";
-"PreResetMessage" = "You are about to reset Infuse Plus preferences to their default values. This action will result in the loss of all your configured preferences.\n\nDo you want to continue?";
+"PreResetMessage" = "You are about to reset Mina Ani preferences to their default values. This action will result in the loss of all your configured preferences.\n\nDo you want to continue?";
 "Reset.Yes" = "Yes, reset to defaults";
 "No" = "No";
 "Yes" = "Yes";
@@ -108,11 +108,6 @@
 "AboutHeader" = "About";
 "Developer" = "Polao";
 "Translators" = "Localization";
-"Arabic" = "Arabic localization";
-"ChineseSimplified" = "Chinese, Simplified localization";
-"ChineseTraditional" = "Chinese, Traditional localization";
-"Japanese" = "Japanese localization";
-"Spanish" = "Spanish localization";
 
 "LockOverlay" = "Lock Overlay";
 "TapToUnlock" = "Tap to unlock";
