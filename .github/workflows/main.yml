@@ -18,7 +18,7 @@ on:
 
       display_name:
         description: "App Name (Optional)"
-        default: "Mina Anni"
+        default: "Mina Ani"
         required: true
         type: string
 
